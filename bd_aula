@@ -1,0 +1,32 @@
+
+Entidade - è o elemento do mundo real, obtido através 
+da necessidade de armazenamento, dentro de um contexto de negócio.
+
+Possui:
+	Nome (substantivo)
+	Significado ( O que ela representa dentro do contexto de
+					negócio)
+	Características (Atributo) que a descreva
+	Atributo - São as características que uma entidade possui
+	
+Exemplo:
+	
+	Contexto de negócio: Escola
+	Necessidades Armazenamento: Aluno, Professor, Curso, 
+								Disciplina
+
+	Entidade: Aluno
+	É um indivídio regularmente matriculado em um curso.
+	Que frquenta aulas, realiza atividades, avaliações e recebe
+	um conceito final.
+	
+	
+	Atributos (características - precisa de pelo menos dois atributos)
+	- RM
+	- Nome do aluno
+	- Endereço
+	- Data nascimento
+	- Email
+	- Número CPF
+	
+	
