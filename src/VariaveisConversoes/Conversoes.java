@@ -11,10 +11,10 @@ public class Conversoes {
 		long inteiroGigante = 9223372036854775807l;
 		double fracionadoGrande = 1.1234567890;
 		
-		/* Conversıes de tipos numÈricos sempre 
+		/* Convers√µes de tipos num√©ricos sempre 
 		 * tem que ser do tipo de menor capacidade
 		 * para o tipo de maior capacidade, ou 
-		 * perder· dados */
+		 * perder√° dados */
 		
 		inteiroCurto = (byte) fracionadoGrande;
 		
