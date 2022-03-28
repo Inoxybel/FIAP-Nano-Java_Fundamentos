@@ -4,7 +4,7 @@ public class Variaveis {
 
 	public static void main(String[] args) {
 
-		/* Tipos numéricos */
+		/* Tipos numÃ©ricos */
 		
 		byte inteiroCurto = 127;
 		short inteiroMedio = 32767;
